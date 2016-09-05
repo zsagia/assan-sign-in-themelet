@@ -1,0 +1,15 @@
+{
+	"name": "assan-sign-in-themelet",
+	"version": "1.0.0",
+	"keywords": [
+		"liferay-theme"
+	],
+	"liferayTheme": {
+		"screenshot": "",
+		"themelet": true,
+		"version": "7.0"
+	},
+	"publishConfig": {
+		"tag": "7_0_x"
+	}
+}
