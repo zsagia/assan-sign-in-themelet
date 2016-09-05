@@ -1,0 +1,23 @@
+#portlet_com_liferay_login_web_portlet_LoginPortlet {
+    padding: 20px;
+    background-color: #f5f5f8;
+
+    h2.portlet-title-text {
+        color:#777;
+        font-size: 15px;
+    }
+
+    form a {
+        display: inline-block;
+        margin-left: 5px;
+        @media screen and (max-width: 320px) {
+            margin-top: 10px;
+        }
+    }
+
+    .btn-fb-login{
+        background-color: #3b5998;
+        color:#fff;
+        @include border-radius (3px);
+    }
+}
